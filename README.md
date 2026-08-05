@@ -1,4 +1,4 @@
-# CSIFallGuard Library
+# esp32s3-csi-har
 
 > Thư viện mã nguồn mở hỗ trợ xây dựng các hệ thống cảm biến **Wi-Fi Channel State Information (CSI)** trên ESP32-S3.
 
