@@ -1,5 +1,5 @@
 {
-    "name": "CSIFallGuard",
+    "name": "esp32s3-csi-har",
     "version": "1.0.0",
     "authors": [{"name": "HieuTrung0937"}],
     "license": "MIT",

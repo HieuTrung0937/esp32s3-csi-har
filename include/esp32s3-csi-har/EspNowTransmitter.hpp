@@ -1,8 +1,8 @@
 #ifndef ESP_NOW_TRANSMITTER_HPP
 #define ESP_NOW_TRANSMITTER_HPP
 
-#include "common/config.h"
-#include "common/esp_now_system.h"
+#include "config.h"
+#include "esp_now_system.h"
 
 /**
  * @brief Lớp EspNowTransmitter - dành cho board PHÁT (TX)
